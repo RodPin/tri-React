@@ -7,13 +7,13 @@ Projeto em react
  
  https://nodejs.org/en/download/
  
- Depois clone o diretorio.
+ Depois clone o diretório.
  
  # Comandos:
  
- cd tri-React  --> para entrar no diretorio
+ cd tri-React  --> para entrar no diretório
  
- npm install  --> para instalar as dependencias nescessarias
+ npm install  --> para instalar as dependencias nescessárias
  
  npm start ---> para rodar o projeto
  
@@ -27,7 +27,7 @@ https://snack.expo.io/@rodpinto/tri
 
 Depois dentro da pagina do link acima clique em 'Run' no cabeçalho e aparecera um qr code
 
-Com Android: Abra o Expo e clique na opcao de escanear qrcode
+Com Android: Abra o Expo e clique na opção de escanear qrcode
 
 Com Iphone: escaneie o qr code diretamente com a camera
  
@@ -35,4 +35,4 @@ Com Iphone: escaneie o qr code diretamente com a camera
  
  ### Observaçoes
  
- A página web e o App mobile estão conectados entre si, logo quando cadastra um usuário em um, aparece para os dois.
+ A página web e o App mobile estão conectados entre si, logo quando cadastra um usuário, aparece para os dois.
