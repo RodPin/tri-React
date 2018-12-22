@@ -27,9 +27,9 @@ https://snack.expo.io/@rodpinto/tri
 
 Depois dentro da pagina do link acima clique em 'Run' no cabeçalho e aparecera um qr code
 
-Com celular Android: Abra o Expo e clique na opcao de escanear qrcode
+Com Android: Abra o Expo e clique na opcao de escanear qrcode
 
-com celular Iphone: escaneie o qr code diretamente com a camera
+Com Iphone: escaneie o qr code diretamente com a camera
  
  
  
