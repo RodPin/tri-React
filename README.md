@@ -30,4 +30,4 @@ Projeto em react
  
  ### Observaçoes
  
- pagina web e o App mobile estão conectados entre si, logo quando cadastra um usuario em um, aparece para os dois.
+ A página web e o App mobile estão conectados entre si, logo quando cadastra um usuário em um, aparece para os dois.
