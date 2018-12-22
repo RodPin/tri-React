@@ -21,9 +21,7 @@ Projeto em react
  ### Para celular:
  
  
- o editor bugou e nao salvou minha ultima modificacao Entao esta longe de pronto,me comprometo a resolver ate amanha(dia 22) pela noite
- 
- https://snack.expo.io/SksBuxslN
+https://snack.expo.io/@rodpinto/tri
  
  Para melhor vizualização do app baixa na appstore ou playstore um aplicativo chamado Expo..
 
