@@ -20,11 +20,15 @@ Projeto em react
  
  ### Para celular:
  
- Entre na appstore ou playstore e baixe um aplicativo chamado Expo.
+ https://snack.expo.io/SksBuxslN
  
- Dentro do aplicativo procure por minha conta @rodpinto
- 
- escolha o projeto tri-React
+ Para melhor vizualização do app baixa na appstore ou playstore um aplicativo chamado Expo..
+
+Depois dentro da pagina do link acima clique em 'Run' no cabeçalho e aparecera um qr code
+
+Com celular Android: Abra o Expo e clique na opcao de escanear qrcode
+
+com celular Iphone: escaneie o qr code diretamente com a camera
  
  
  
